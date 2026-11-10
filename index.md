@@ -7,3 +7,7 @@ The application uses Google Drive API solely to upload and manage encrypted back
 It is intended for personal administrative use and is not offered as a public service.
 
 Contact: The application owner through the associated GitHub account.
+
+## Privacy
+
+[Privacy Policy](https://mjamisimperialorchestra-oss.github.io/imperial-backup-oauth/privacy.html)
